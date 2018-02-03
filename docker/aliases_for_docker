@@ -1,0 +1,5 @@
+Docker and aliases
+------------------
+
+I have to admit that I did not know about bash completions for docker and the docker toolset when I first wrote the aliases and accompanying scripts.
+
