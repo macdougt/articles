@@ -11,8 +11,7 @@ I use dls, dockerkillexit, docb and docs frequently.
 |-----------------|:----------------------|
 | `dls` |  `docker image ls; docker container ls -a` <br/>Lists all images and all containers (including stopped)|
 | `dockerkillexit` |  `docker container ls -aq -f status=exited \| xargs docker rm` <br/>Kills (stops and removes) all exited containers|
-| `docb` | Runs perl script that produces a numbered list of all running containers, giving the user the choice of which to enter |
-| `dls` |  `docker image ls; docker container ls -a` <br/>Lists all images and all containers (including stopped)|
+| `docb` | Runs perl script that produces a numbered list of all running containers, giving the user the choice of which to enter with bash. If only one is returned, it will enter it by default. |
+| `docs` |  Runs perl script that produces a numbered list of all images, giving the user the choice of which to start with bash. If only one is returned, it will start it by default.|
 
-
-
+There are other aliases which I have found useful. The get_content.sh script will fetch the files to include and the .profile includes the snippet to include the files.
