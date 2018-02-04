@@ -5,3 +5,10 @@ Living a happy life often involves avoiding unnecessary time soaks like sitting 
 
 I have to admit that I did not know about bash completions for docker and the docker toolset when I first wrote the aliases and accompanying scripts. Also if you are squeamish about Perl, do not dig into the scripts.
 
+I use dls, dockerkillexit, docb and docs frequently.
+
+| command/alias   | Description           |
+|-----------------|:---------------------:|
+| `dls` |  `docker image ls;docker container ls -a` |
+
+
