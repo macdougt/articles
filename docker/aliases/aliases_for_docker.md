@@ -8,9 +8,11 @@ I have to admit that I did not know about bash completions for docker and the do
 I use dls, dockerkillexit, docb and docs frequently.
 
 | command/alias   | Description           |
-|-----------------|:---------------------:|
+|-----------------|:----------------------|
 | `dls` |  `docker image ls; docker container ls -a` <br/>Lists all images and all containers (including stopped)|
 | `dockerkillexit` |  `docker container ls -aq -f status=exited \| xargs docker rm` <br/>Kills (stops and removes) all exited containers|
+| `docb` | Runs perl script that produces a numbered list of all running containers, giving the user the choice of which to enter |
+| `dls` |  `docker image ls; docker container ls -a` <br/>Lists all images and all containers (including stopped)|
 
 
 
