@@ -9,6 +9,8 @@ I use dls, dockerkillexit, docb and docs frequently.
 
 | command/alias   | Description           |
 |-----------------|:---------------------:|
-| `dls` |  `docker image ls;docker container ls -a` |
+| `dls` |  `docker image ls; docker container ls -a` Lists all images and all containers (including stopped)|
+| `dockerkillexit` |  `docker container ls -aq -f status=exited | xargs docker rm` Kills (stops and removes) all exited containers|
+
 
 
