@@ -14,4 +14,4 @@ I use dls, dockerkillexit, docb and docs frequently.
 | `docb` | Runs perl script that produces a numbered list of all running containers, giving the user the choice of which to enter with bash. If only one is returned, it will enter it by default. |
 | `docs` |  Runs perl script that produces a numbered list of all images, giving the user the choice of which to start with bash. If only one is returned, it will start it by default.|
 
-There are other aliases which I have found useful. The get_content.sh script will fetch the files to include and the .profile includes the snippet to include the files.
+There are other aliases which I have found useful. The [get_content.sh](get_content.sh) script will fetch the files to include and the [.profile](.profile) includes the snippet to include the files.
