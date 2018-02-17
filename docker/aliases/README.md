@@ -9,6 +9,7 @@ The [get_content.sh](get_content.sh) script will fetch the files to include and 
 
 Here is a screencast that shows some of the aliases:
 [![asciicast](https://asciinema.org/a/161002.png)](https://asciinema.org/a/161002)
+*recorded with [asciinema](https://asciinema.org/)*
 
 | command/alias   | Description           |
 |-----------------|:----------------------|
