@@ -23,7 +23,7 @@ Quick ideas shared:
   - Of course, online gaming with colleagues
   - Virtual coffee breaks
 
-There are many, many articles about how to improve connectivity and engagement for remote workers.[https://www.google.com/search?q=improve+engagement+and+connnectivity+while+working+remotely&oq=improve+engagement+and+connnectivity+while+working+remotely]
+There are many, many [articles](https://www.google.com/search?q=improve+engagement+and+connnectivity+while+working+remotely&oq=improve+engagement+and+connnectivity+while+working+remotely) about how to improve connectivity and engagement for remote workers.
 
 I feel like educational institutions and edtech should offer solutions to this problem. One of school's biggest values to me was the community. If you ask most students why they might want to return to "physical" school, I believe that they would say friends.
 
