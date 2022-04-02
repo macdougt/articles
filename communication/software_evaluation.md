@@ -49,4 +49,7 @@ Evaluation checklist
   - many examples exist that demonstrate the uses/features
   - has it been adopted by many users/developers
   - has it been tested
-  - is it secure 
+  - is it secure
+
+- Swapability
+  - can it be swapped easily
