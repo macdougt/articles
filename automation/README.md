@@ -7,5 +7,5 @@
 | 0 | No plan for task completion |
 | 1 | Created instructions for task completion |
 | 2 | Some of the instructions leverage tools to help complete steps </br> - May create skeletons of content to be delivered</br> - May prompt user for interaction to semi automate step|
-| 3 | Use tooling to completely automate task |
-
+| 3 | Use tooling to completely automate task (rule based)|
+| 4 | Use tooling to completely automate task (intelligence based, adapts to input based on learning from an initial data set)|
