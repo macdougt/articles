@@ -2,10 +2,16 @@
 
 I wanted to capture some thoughts about the evaluation of software and in particular software that can be used as part of a production system.
 
-At the heart of any evaluation are the requirements for the software itself keeping in mind that requirements change and usually more is expected in the future.
+At the heart of any evaluation are the requirements for the software itself keeping in mind that requirements change and usually more is expected in the future. The requirements may dictate the weight given to the items on the list below.
 
 Evaluation checklist 
 --------------------
+
+- Fitting license
+  - license fits the requirements (e.g. LGPL may require us to share our code and that may be an issue)
+
+- Applicability to workforce skill set/knowledge base
+  - Does the software fit the intended users/maintainers (e.g. if the software is written in Go and requires tweaking do I have the correct knowledge base to handle the work)
 
 - Simple to use for user (if applicable)
   - strong documentation
@@ -45,6 +51,9 @@ Evaluation checklist
   - can it be used anywhere (local, clouds (e.g.AWS, Azure, GCP))
   - strong abstraction for environment
 
+- Connectability
+  - Will the software connect in the pipeline of software requiring attainable inputs and providing the proper outputs that can be transformed if necessary
+
 - Maturity
   - many examples exist that demonstrate the uses/features
   - has it been adopted by many users/developers
@@ -53,3 +62,6 @@ Evaluation checklist
 
 - Swapability
   - can it be swapped easily
+
+- Intended audience
+  - if intended for production use, does the software target production use or developer tooling
