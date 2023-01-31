@@ -13,7 +13,11 @@ Evaluation checklist
 - Applicability to workforce skill set/knowledge base
   - Does the software fit the intended users/maintainers (e.g. if the software is written in Go and requires tweaking do I have the correct knowledge base to handle the work)
 
-- Extensibility
+- Affordability
+  - cost at the expected scale is within reason
+
+- Extensibility/Flexibility
+  - future proof
   - Are there extension points available (e.g. plugin architecture)
 
 - Simple to use for user (if applicable)
@@ -38,7 +42,7 @@ Evaluation checklist
 
 - Active
   - support and updates quickly available for high priority problems
-  - follows an active release/update schedule  
+  - follows an active release/update schedule
 
 - Test
   - testable
