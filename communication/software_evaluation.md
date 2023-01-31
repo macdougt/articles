@@ -52,7 +52,7 @@ Evaluation checklist
   - easy to create environments (e.g. helm charts, docker images and files exist)
 
 - Support
-  - easy to find answers and help to problems
+  - accesible and easy to find answers and help to problems
 
 - Portable
   - can it be used anywhere (local, clouds (e.g.AWS, Azure, GCP))
