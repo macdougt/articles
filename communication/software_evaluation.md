@@ -13,6 +13,9 @@ Evaluation checklist
 - Applicability to workforce skill set/knowledge base
   - Does the software fit the intended users/maintainers (e.g. if the software is written in Go and requires tweaking do I have the correct knowledge base to handle the work)
 
+- Extensibility
+  - Are there extension points available (e.g. plugin architecture)
+
 - Simple to use for user (if applicable)
   - strong documentation
   - intuitive, discoverable UI
@@ -51,14 +54,19 @@ Evaluation checklist
   - can it be used anywhere (local, clouds (e.g.AWS, Azure, GCP))
   - strong abstraction for environment
 
-- Connectability
+- Interface
   - Will the software connect in the pipeline of software requiring attainable inputs and providing the proper outputs that can be transformed if necessary
+  - Can a concrete implementation be easily mocked
 
 - Maturity
   - many examples exist that demonstrate the uses/features
   - has it been adopted by many users/developers
   - has it been tested
   - is it secure
+
+- Trend
+  - is the technology gaining market share/adoption
+  - check google trends, stack overflow trends, oss insight trend
 
 - Swapability
   - can it be swapped easily
