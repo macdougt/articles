@@ -15,6 +15,7 @@ Evaluation checklist
 
 - Affordability
   - cost at the expected scale is within reason
+  - consider set up cost, reoccuring costs and additional costs to support the use of the software (e.g. other software tooling, suppport)
 
 - Extensibility/Flexibility
   - future proof
