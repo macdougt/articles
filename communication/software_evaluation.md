@@ -59,6 +59,9 @@ Evaluation checklist
   - can it be used anywhere (local, clouds (e.g.AWS, Azure, GCP))
   - strong abstraction for environment
 
+- Integratability
+  - if the software is meant to be used as a library/component/service, does it integrate well with the existing technology choices (e.g. authentication, access management)
+
 - Interface
   - Will the software connect in the pipeline of software requiring attainable inputs and providing the proper outputs that can be transformed if necessary
   - Can a concrete implementation be easily mocked
